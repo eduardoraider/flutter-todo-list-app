@@ -1,7 +1,7 @@
 
 
 ## Flutter To-Do List
-by <ER/> Eduardo Raider
+by &#60;ER&#47;&#63; Eduardo Raider
 
 This project is a starting point for a Flutter application.
 
